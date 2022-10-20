@@ -1,0 +1,96 @@
+.one {
+    color: #ff5a34;
+    font-size: 14px;
+    margin-left: 20px;
+    font-weight: 700;
+}
+
+.top_life {
+    text-decoration: none;
+    color: rgba(0, 0, 0, .75);
+    text-align: left;
+    font-size: 14px;
+    margin-left: 20px;
+}
+
+.top_life:hover {
+    color: rgb(250, 0, 0);
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 13px;
+    position: relative;
+}
+
+.top_right {
+    font-size: 14px;
+}
+
+.top_right_one {
+    color: rgba(0, 0, 0, .75);
+}
+
+.logn {
+    background: #fd6853;
+    color: #fff;
+    margin: 20px;
+    border-radius: 2px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+
+.middle {
+    position: relative;
+}
+
+.picture1 {
+    display: block;
+    margin: auto;
+    width: 18%;
+    margin-top: 172px;
+}
+
+.button {
+    text-align: center;
+    position: relative;
+}
+
+.box1 {
+    width: 44%;
+    font-size: 32px;
+    color: rgba(0, 0, 0, .75);
+}
+
+.box2 {
+    margin-left: -5px;
+    font-size: 28px;
+}
+
+.QR {
+    text-align: center;
+    margin-top: 280px;
+    position: relative;
+}
+
+.font_down {
+    margin: auto
+}
+
+.base {
+    text-align: center;
+    font-size: 13px;
+    position: relative;
+}
+
+.base_word {
+    text-decoration: none;
+    color: rgb(42 40 40 / 70%)
+}
+
+.base_word:hover {
+    color: black;
+}
